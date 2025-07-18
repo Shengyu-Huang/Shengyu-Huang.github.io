@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Zequn Li
+title: Shengyu Huang
 
 # Name pronunciation (optional)
-name_pronunciation: 李泽群
+name_pronunciation: 黄晟宇
 
 # Full name (for SEO)
-first_name: Zequn
-last_name: Li
+first_name: Shengyu
+last_name: Huang
 
 # Status emoji
 status:
@@ -32,7 +32,7 @@ interests:
   - Empirical Asset Pricing
   - Interpretable Machine Learning
   - Fintech
-  - Financial Analytics
+  - Risk Management
 
 
 # Education to show in About widget
