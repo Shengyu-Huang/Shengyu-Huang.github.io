@@ -98,7 +98,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:shuang52@stevens.edu'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zequn-li-a1605b237/
