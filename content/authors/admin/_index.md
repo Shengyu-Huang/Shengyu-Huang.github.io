@@ -118,13 +118,13 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Zequn_Li_CV.pdf
+    link: uploads/Shengyu_Huang_CV.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Shengyu (Henry) Huang is a PhD Candidate in Finance at Stevens Institute of Technology. His research focuses on empirical asset pricing and interpretable machine learning, with a particular emphasis on how model complexity affects financial predictions and market outcomes. His dissertation examines the role of nonlinear models in asset pricing and financial stability, with applications spanning stock return predictability and bank complexity measurement. Beyond his dissertation, his work extends to fintech, financial risk management, and corporate disclosure, combining modern machine learning techniques with traditional financial theories to address key questions in asset pricing, risk management, and market efficiency.
+Shengyu (Henry) Huang is a PhD Candidate in Financial Engineering at Stevens Institute of Technology. His research focuses on empirical asset pricing and interpretable machine learning, with a particular emphasis on how model complexity affects financial predictions and market outcomes. His dissertation examines the role of nonlinear models in asset pricing and financial stability, with applications spanning stock return predictability and bank complexity measurement. Beyond his dissertation, his work extends to fintech, financial risk management, and corporate disclosure, combining modern machine learning techniques with traditional financial theories to address key questions in asset pricing, risk management, and market efficiency.
 
 In addition to his research, Shengyu is dedicated to teaching and mentoring. Drawing on his interdisciplinary background in finance and technology, he strives to engage students with contemporary financial topics while developing their practical, market-relevant skills. His teaching philosophy emphasizes empathy, the integration of new technologies, real-world applications of theory, and clear, structured content. He has served as a Teaching Assistant at NYU and Stevens Institute of Technology, and has independently taught coding lab courses in R, SQL, and Python, helping students build both critical thinking and technical proficiency in a supportive learning environment.
 
