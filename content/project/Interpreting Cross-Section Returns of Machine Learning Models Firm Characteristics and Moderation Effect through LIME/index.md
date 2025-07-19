@@ -1,22 +1,29 @@
 ---
-title: Interpreting Cross-Sectional Returns of Machine Learning Models - Firm Characteristics and Moderation Effect through LIME
+title: Measuring Bank Complexity Using XAI
 date_format: 'Jan 2006'
 authors:
-  - Zequn Li
-  - Xiaoxia Lou
-  - Ying Wu
+  - Shengyu Huang
+  - Majeed Simaan
+  - Yi Tang
   - Steve Yang
 author_notes: 
   - School of Business, Stevens Institute of Technology
-  - Alfred Lerner College of Business and Economics, University of Delaware
   - School of Business, Stevens Institute of Technology
-  - School of Business, Stevens Institute of Technology
+  - Gabelli School of Business, Fordham University
 tags:
   - Empirical Asset Pricing
   - Interpretable Machine Learning
+  - Model Complexity 
 
 date: '2024-04-27'
 order: 1  # Lower number appears first
+
+links:
+  - icon: external-link
+    icon_pack: fas
+    name: "Available on SSRN"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785689"
+
 
 related_events:
 - event/FMA 2024 Annual Meeting
@@ -24,4 +31,4 @@ related_events:
 - event/2025 AFA Annual Meeting PhD Student Poster Session
 
 ---
-Our study introduces a novel framework to interpret machine learning asset pricing models through the Local Interpretable Model-agnostic Explanations (LIME) method. This methodology illuminates how the inclusion of LIME local coefficients, representing the interaction among characteristics within ML models, modifies the relationship between a firm characteristic and stock returns. The empirical results underscore the significance of incorporating moderation effects into portfolio analysis. Our results present that certain firm characteristics exhibit varying long-short portfolio performance across LIME groups, suggesting their predictive power is specific to certain asset segments. These findings deepen our understanding of the complexities in cross-sectional stock returns, uncovering the detailed dynamics between firm characteristics and their return effects, and distinguishing our research from existing studies.
+Since the global financial crisis, bank complexity has faced increasing scrutiny for its impact on financial stability, yet it remains difficult to measure. We introduce a novel explainable AI method to quantify complexity and find that it exhibits a pro-cyclical pattern, rising before crises and declining during periods of distress. Higher complexity is associated with lower trading activity and a regime-dependent relationship with returns and risk: favorable in normal periods but adverse during downturns. Additionally, more complex banks enjoy lower funding costs, suggesting implicit guarantees. These results highlight the role of complexity in shaping bank behavior and market stability.
