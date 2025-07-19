@@ -171,7 +171,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
+  - block: portfolio
     id: workinprogress
     content:
       title: Work in Progress
