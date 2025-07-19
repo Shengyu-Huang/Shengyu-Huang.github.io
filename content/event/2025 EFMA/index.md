@@ -23,6 +23,6 @@ projects:
 
 ## Papers Presented
 
-- [**Watching the FedWatch**](/project/watching-the-fedwatch/): This paper examines the predictive power of the CME FedWatch tool for FOMC decisions.
+- [**Watching the FedWatch**](https://henryhuang1996.github.io/Shengyu-Huang.github.io/project/watching-the-fedwatch/): This paper examines the predictive power of the CME FedWatch tool for FOMC decisions.
   
-- [**Measuring Bank Complexity Using XAI**](/project/measuring-bank-complexity-using-xai/): This study introduces a machine learning approach to quantify bank complexity using explainable AI.
+- [**Measuring Bank Complexity Using XAI**](https://henryhuang1996.github.io/Shengyu-Huang.github.io/project/measuring-bank-complexity-using-xai/): This study introduces a machine learning approach to quantify bank complexity using explainable AI.
