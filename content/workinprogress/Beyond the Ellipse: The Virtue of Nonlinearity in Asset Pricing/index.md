@@ -1,5 +1,5 @@
 ---
-title: Beyond the Ellipse: The Virtue of Nonlinearity in Asset Pricing
+title: Beyond the Ellipse - The Virtue of Nonlinearity in Asset Pricing
 authors: 
   - Shengyu Huang 
 author_notes: 

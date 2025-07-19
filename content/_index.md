@@ -298,8 +298,8 @@ sections:
       # text: |-
       #   Leave a message
       # Contact (add or remove contact options as necessary)
-      email: zli61@stevens.edu
-      # phone: 888 888 88 88
+      email: shuang52 (at) stevens (dot) edu
+      phone: +1 (626) 360-5957
       # appointment_url: 'https://calendly.com'
       address:
         street: Babbio Center, 525 River St
@@ -308,7 +308,7 @@ sections:
         postcode: '07030'
         country: United States
         country_code: US
-      directions: Office 219 on Floor 2
+      directions: Office 640 on Floor 6
       office_hours: Email me for appointment
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       # coordinates:
