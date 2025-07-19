@@ -16,6 +16,13 @@ order: 2  # Lower number appears first
 # Optional external URL for project (replaces project detail page).
 # external_link: https://example.org
 
+links:
+  - icon: external-link
+    icon_pack: fas
+    name: "Available on SSRN"
+    url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5093703"
+
+
 # image:
 #   caption: Photo by Toa Heftiba on Unsplash
 #   focal_point: Smart
