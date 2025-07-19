@@ -171,7 +171,7 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: portfolio
+  - block: collection
     id: workinprogress
     content:
       title: Work in Progress
@@ -188,15 +188,7 @@ sections:
       view: citation
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+    
   
   - block: collection
     id: publications
