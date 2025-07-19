@@ -40,16 +40,13 @@ education:
   courses:
     - course: PhD in Financial Engineering
       institution: Stevens Institute of Technology
-      year: Expected 2025
+      year: Expected 2026
     - course: M.Sc in Financial Engineering
       institution: NYU Tandon School of Engineering
-      year: 2018
-    - course: BSc in Finance and Applied Math
-      institution: University of Rhode Island
-      year: 2016
-    - course: BSc in International Finance
-      institution: 中南财经政法大学
-      year: 2016
+      year: 2021
+    - course: BSc in Industrial and Systems Engineering; Minor in Business Finance
+      institution: University of Southern California 
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -71,24 +68,26 @@ skills:
         # percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Software
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Skiing
+      - name: LaTex
         description: ''
         # percent: 60
-        icon: person-skiing
+        icon: file-code
         icon_pack: fas
-      - name: Dogs
+      
+      - name: Bloomberg Terminal
         description: ''
         # percent: 100
-        icon: bone
+        icon: chart-line
         icon_pack: fas
-      - name: Travel
+      
+      - name: Stata
         description: ''
         # percent: 80
-        icon: camera-retro
+        icon: calculator
         icon_pack: fas
 
 # Social/Academic Networking
@@ -101,7 +100,7 @@ social:
     link: 'mailto:shuang52@stevens.edu'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/zequn-li-a1605b237/
+    link: https://www.linkedin.com/in/shengyu-huang1217/
     # label: connect with me on LinkedIn
     display:
       header: true
@@ -125,8 +124,10 @@ social:
 highlight_name: true
 ---
 
-Zequn Li is a PhD Candidate at Stevens Institute of Technology. Her research focuses on empirical asset pricing and interpretable machine learning, particularly in understanding the dynamics between firm characteristics and stock returns. Looking ahead, Zequn is eager to expand her research into fintech and financial analytics, with a focus on applying innovative technologies to financial markets.
+Shengyu (Henry) Huang is a PhD Candidate in Finance at Stevens Institute of Technology. His research focuses on empirical asset pricing and interpretable machine learning, with a particular interest in understanding how model complexity affects financial predictions and market outcomes. His dissertation explores the role of nonlinear models in asset pricing and financial stability, with applications ranging from stock return predictability to bank complexity measurement. Beyond his dissertation, Shengyu’s work extends to fintech, financial risk management, and corporate disclosure, combining modern machine learning techniques with traditional financial theories to address pressing questions in asset pricing, risk management, and market efficiency.
 
-In addition to her research, Zequn is dedicated to teaching and mentoring students in finance and quantitative methods. She has extensive experience teaching courses in programming for finance, statistics, and stochastic calculus, where she emphasizes the practical application of these skills in the financial industry. Zequn’s teaching approach is designed to inspire students’ interests, guide them in discovering their academic and professional goals, and equip them with the technical expertise needed to excel in their careers.
+In addition to my research, I am equally passionate about teaching and mentoring, which I view as fundamental to my academic identity. Drawing on my interdisciplinary background in finance and technology, I aim to inspire students to engage with contemporary issues in financial markets while developing practical, market-relevant skills. My teaching philosophy is grounded in four core principles: fostering empathy by understanding students’ perspectives, embracing innovative technologies in the classroom, bridging theory with real-world applications, and delivering well-structured, thoughtfully prepared content. These principles have guided my approach across various teaching roles—beginning as a Teaching Assistant at NYU, continuing through my doctoral studies at Stevens Institute of Technology, and expanding to independently teach coding labs in R, SQL, and Python. Through these experiences, I have focused on cultivating critical thinking and technical proficiency, while fostering an inclusive learning environment where all students are empowered to achieve their academic and professional goals.
+
+Outside of my academic work, I enjoy pursuing hobbies that keep me engaged and balanced. I am an avid traveler and enjoy exploring new cultures and perspectives through my journeys. Photography is another passion of mine, allowing me to capture unique moments and stories along the way. I am also a dedicated soccer fan, with a special connection to my hometown team, Shanghai Shenhua. Following their matches has been a long-standing tradition that keeps me connected to home and provides a fun break from academic life.
 
 {style="text-align: justify;"}
