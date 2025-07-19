@@ -171,6 +171,33 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
+  - block: portfolio
+    id: workinprogress
+    content:
+      title: Work in Progress
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
+      filters:
+        folders:
+          - workinprogress
+        exclude_featured: true
+    design:
+      columns: '1'
+      view: citation
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   - block: collection
     id: publications
     content:
