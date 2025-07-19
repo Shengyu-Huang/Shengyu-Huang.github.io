@@ -5,7 +5,6 @@ authors:
   - Shengyu Huang
   - Majeed Simaan
   - Yi Tang
-  - Steve Yang
 author_notes: 
   - School of Business, Stevens Institute of Technology
   - School of Business, Stevens Institute of Technology
