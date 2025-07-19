@@ -186,10 +186,7 @@ sections:
     design:
       columns: '1'
       view: citation
-  
-  
-    
-  
+
   - block: collection
     id: publications
     content:
