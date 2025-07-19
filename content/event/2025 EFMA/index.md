@@ -21,3 +21,8 @@ projects:
   - Measuring Bank Complexity Using XAI 
 ---
 
+## Papers Presented
+
+- [**Watching the FedWatch**](/project/watching-the-fedwatch/): This paper examines the predictive power of the CME FedWatch tool for FOMC decisions.
+  
+- [**Measuring Bank Complexity Using XAI**](/project/measuring-bank-complexity-using-xai/): This study introduces a machine learning approach to quantify bank complexity using explainable AI.
