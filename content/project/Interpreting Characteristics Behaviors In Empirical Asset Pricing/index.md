@@ -1,12 +1,15 @@
 ---
-title: Interpreting Characteristics Behaviors In Empirical Asset Pricing
+title: Watching the FedWatch
 authors: 
-  - Zequn Li
+  - Stefano Bonini
+  - Shengyu Huang 
+  - Majeed Simaan
 author_notes: 
-  - single-authored
+  - Stevens Institute of Technology
+  - Stevens Institute of Technology
+  - Stevens Institute of Technology
 tags:
   - Empirical Asset Pricing
-  - Interpretable Machine Learning
 
 date: '2024-04-27'
 order: 2  # Lower number appears first
@@ -17,4 +20,4 @@ order: 2  # Lower number appears first
 #   caption: Photo by Toa Heftiba on Unsplash
 #   focal_point: Smart
 ---
-This study introduces an innovative framework to interpret the behaviors of firm characteristics in predicting expected returns through machine learning models, directly addressing the challenges of transparency and interpretability. Our approach utilizes the Local Interpretable Model-Agnostic Explanations (LIME) to evaluate firm characteristics based on their statistical significance and behaviors—linearity, independence, insignificance, and interaction—offering a novel perspective on their predictive roles. Empirical findings demonstrate a complex interplay among these behaviors, with interaction effects playing a pivotal role, thus challenging the traditional emphasis on linear and independent influences in asset pricing models. Our research provides new insights into the mechanisms of machine learning predictions in asset pricing, paving the way for further exploration into the economic rationale behind data-driven findings and enhancing understanding of complex asset pricing dynamics.
+The popularity of the CME FedWatch as a tool for forecasting monetary policy has increased rapidly. We investigate its statistical and economic value for market participants. Our analysis shows that this simple binary model can predict the Federal Open Market Committee (FOMC) rate decisions with an 88% accuracy 30 days before FOMC meetings. On the other hand, conventional predictions based on Fed fund futures result in a 75% accuracy. A simple backtesting procedure demonstrates that this 13% accuracy improvement translates into significant economic gains. Further empirical evidence indicates that the tool effectively reduces uncertainty ahead of FOMC meetings, mitigating the well-documented pre-FOMC drift. Despite its strong predictive power, the FedWatch has remained largely overlooked until recently, according to traffic data. We explore several mechanisms to explain why market participants have not fully exploited such tools. One key reason lies in the fact that bond yields on FOMC days are predominantly driven by unexpected rate surprises, which remain unpredictable even for sophisticated investors.
