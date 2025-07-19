@@ -175,17 +175,19 @@ sections:
     id: workinprogress
     content:
       title: Work in Progress
-      # text: |-
-      #   {{% callout note %}}
-      #   Quickly discover relevant content by [filtering publications](./publication/).
-      #   {{% /callout %}}
+      sort_by: 'order'
+      sort_ascending: true 
+      show_related: true
+      show_date: false 
+      # date_format: 'Jan 2006'
       filters:
         folders:
           - workinprogress
-        exclude_featured: true
     design:
       columns: '1'
-      view: citation
+      view: card
+      flip_alt_rows: false
+
 
   - block: collection
     id: publications
