@@ -28,8 +28,8 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 50
-  - name: Industry Experience
-    url: '#industryexperience'
+  - name: Professional Service
+    url: '#professional-service'
     weight: 60
   - name: Contact
     url: '#contact'
