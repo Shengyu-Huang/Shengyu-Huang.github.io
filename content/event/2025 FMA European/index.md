@@ -23,8 +23,8 @@ projects:
 
 ## Papers Discussed 
 
-- [**Option-Implied Network Measures of Contagion and Stock Return Predictability**]
+- **Option-Implied Network Measures of Contagion and Stock Return Predictability**
 
-- [**The Impact of Artificial Intelligence on Individual Manual Investment Decisions - Empirical Evidence from Mutual Funds**]
+- **The Impact of Artificial Intelligence on Individual Manual Investment Decisions - Empirical Evidence from Mutual Funds**
 
 
