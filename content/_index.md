@@ -217,77 +217,57 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+  
+    design:
+      columns: '1'
   - block: markdown
     id: teaching
     content:
-      title: Teaching
-      text: <h4>Instructor at Stevens Institute of Technology</h4>
-        <ul>
-        <li>QF 104 Data Management in R
-        </ul>
-        <h4>Recitation Leader at Stevens Institute of Technology</h4>
-        <ul>
-        <li>QF 343 Introduction to Stochastic Calculus
-        </ul>
-        <h4>Teaching Assistant at Stevens Institute of Technology</h4>
-        <ul>
-        <li>QF 112 Statistics in Quantitative Finance
-        <li>FE 543 Introduction to Stochastic Calculus for Finance
-        <li>FA 590 Statistical Machine Learning
-        <li>FE 610 Stochastics Calculus for Financial Engineering
-        <li>FE 621 Computational Methods in Finance
-        <li>FE 630 Portfolio Theory and Applications
-        </ul>
-        <h4>Graduate Assistant at NYU Tandon School of Engineering</h4>
-        <li>FRE 6083 Quantitative Method in Finance
-        <li>FRE 6091 Financial Econometrics
-        <li>FRE 6233 Option Pricing and Stochastic Calculus
-        </ul>
-    design:
-      columns: '1'
-      view: compact
-  - block: experience
-    id: industryexperience
-    content:
-      title: Industry Experience
-      # Date format for experience
-      #   Refer to https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - company: Acadian Asset Management
-          title: Quantitative Research Intern
-          # company_url: ''
-          # company_logo: org-gc
-          location: Boston, MA
-          date_start: '2023-06-01'
-          date_end: '2023-08-20'
-          # description: |2-
-          #     Responsibilities include:
+     title: Teaching Experience
+     text: |
+       <h4>Instructor at Stevens Institute of Technology</h4>
+       <ul>
+         <li>FE 520: Introduction to Python for Financial Applications
+           <ul>
+             <li>Semester: Spring 2024 – Present</li>
+           </ul>
+         </li>
+         <li>FE 513: Financial Lab: Database Design
+           <ul>
+            <li>Semester: Fall 2024</li>
+           </ul>
+         </li>
+       </ul>
 
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
-        - title: Quantitative Research Intern
-          company: Jennison Associate
-          # company_url: ''
-          # company_logo: org-x
-          location: New York, NY
-          date_start: '2022-06-01'
-          date_end: '2022-08-20'
-          # description: Taught electronic engineering and researched semiconductor physics.
-        - title: Quantitative Research Intern
-          company: PGIM Quantitative Solutions
-          # company_url: ''
-          # company_logo: org-x
-          location: Newark, NJ
-          date_start: '2021-06-01'
-          date_end: '2021-08-20'
-          # description: Taught electronic engineering and researched semiconductor physics.
+       <h4>Teaching Assistant at Stevens Institute of Technology</h4>
+       <ul>
+        <li>FE 680: Advanced Derivatives (Fall 2021)</li>
+        <li>FE 610: Stochastic Calculus for Financial Engineers (Spring 2022)</li>
+        <li>FE 535: Introduction to Financial Risk Management (Fall 2022, Spring 2023, Fall 2023)</li>
+        <li>FE 570: Market Microstructure and Trading Strategies (Fall 2022, Spring 2023, Fall 2023, Spring 2024)</li>
+       </ul>
+
+       <h4>Teaching Assistant at New York University</h4>
+       <ul>
+        <li>FIN 2203: Corporate Finance (Fall 2019)</li>
+        <li>FRE 6073: Introduction to Derivative Securities (Spring 2020, Fall 2020, Spring 2021)</li>
+       </ul>
+
+    design:
+      columns: '1' 
+  - block: markdown
+    id: professional-service
+    content:
+      title: Professional Service
+      text: |
+        <h4>Ad-Hoc Referee</h4>
+        <ul>
+          <li>Computational Economics (ISSN: 1572-9974), 2023</li>
+          <li>European Financial Management (ISSN: 1354-7798), 2025</li>
+        </ul>
+
+   
+   
     design:
       columns: '1'
   - block: contact
