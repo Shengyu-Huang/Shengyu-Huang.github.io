@@ -24,10 +24,10 @@ links:
     url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785689"
 
 
-related_events:
-- event/FMA 2024 Annual Meeting
-- event/SFA 2025 Meeting
-- event/2025 AFA Annual Meeting PhD Student Poster Session
+#related_events:
+#- event/FMA 2024 Annual Meeting
+#- event/SFA 2025 Meeting
+#- event/2025 AFA Annual Meeting PhD Student Poster Session
 
 ---
 Since the global financial crisis, bank complexity has faced increasing scrutiny for its impact on financial stability, yet it remains difficult to measure. We introduce a novel explainable AI method to quantify complexity and find that it exhibits a pro-cyclical pattern, rising before crises and declining during periods of distress. Higher complexity is associated with lower trading activity and a regime-dependent relationship with returns and risk: favorable in normal periods but adverse during downturns. Additionally, more complex banks enjoy lower funding costs, suggesting implicit guarantees. These results highlight the role of complexity in shaping bank behavior and market stability.
