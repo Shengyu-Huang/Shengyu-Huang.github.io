@@ -115,5 +115,3 @@ security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
 
-marketing:
-  google_site_verification: "fpZ6krkGf-VIQ5VPVXec4pVL62QGRf9VcfZLxFqkgsU"
