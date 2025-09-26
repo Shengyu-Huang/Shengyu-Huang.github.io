@@ -16,24 +16,24 @@ main:
   - name: Working Papers
     url: '#workingpaper'
     weight: 20
-  - name: Work in Progress
-    url: '#workinprogress'
-    weight: 30
+  #- name: Work in Progress
+  #  url: '#workinprogress'
+  #  weight: 30
   #- name: Publications
   #  url: '#publications'
   #  weight: 30
   - name: Presentations
     url: '#presentations'
-    weight: 40
+    weight: 30
   - name: Teaching
     url: '#teaching'
-    weight: 50
+    weight: 40
   - name: Professional Service
     url: '#professional-service'
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

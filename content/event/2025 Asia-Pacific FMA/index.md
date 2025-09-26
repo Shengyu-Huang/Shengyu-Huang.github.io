@@ -19,4 +19,4 @@ projects:
 ---
 ## Papers Presented
 
-- [**Measuring Bank Complexity Using XAI**](https://henryhuang1996.github.io/Shengyu-Huang.github.io/project/measuring-bank-complexity-using-xai/): This study introduces a machine learning approach to quantify bank complexity using explainable AI.
+- [**Beyond the Ellipse: The Virtue of Nonlinearity in Asset Pricing**](https://shengyu-huang.github.io/project/beyond-the-ellipse-the-virtue-of-nonlinearity-in-asset-pricing//): This study examines the sources of superior performance of nonlinear ML models in asset pricing.
