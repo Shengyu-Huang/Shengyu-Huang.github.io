@@ -14,9 +14,9 @@ all_day: true
 
 featured: false
 projects:
-  - Beyond the Ellipse: The Virtue of Nonlinearity in Asset Pricing
+  - "Beyond the Ellipse: The Virtue of Nonlinearity in Asset Pricing"
 
 ---
 ## Papers Presented
 
-- [**Beyond the Ellipse: The Virtue of Nonlinearity in Asset Pricing**](https://shengyu-huang.github.io/project/beyond-the-ellipse-the-virtue-of-nonlinearity-in-asset-pricing//): This study examines the sources of superior performance of nonlinear ML models in asset pricing.
+- [**Beyond the Ellipse: The Virtue of Nonlinearity in Asset Pricing**](https://shengyu-huang.github.io/project/beyond-the-ellipse-the-virtue-of-nonlinearity-in-asset-pricing/): This paper investigates why nonlinear machine learning models outperform linear ones in asset pricing, identifying the firm and market conditions under which their advantage is most pronounced.
