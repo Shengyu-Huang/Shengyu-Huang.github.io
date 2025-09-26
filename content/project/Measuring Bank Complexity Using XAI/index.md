@@ -22,14 +22,18 @@ links:
     icon_pack: fas
     name: "Available on SSRN"
     url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4785689"
-
+  
+  - icon: check-circle
+    icon_pack: fas
+    name: "R&R at RCFS"
+    url: ""  # leave blank if not linking anywhere
 
 #related_events:
 #- event/FMA 2024 Annual Meeting
 #- event/SFA 2025 Meeting
 #- event/2025 AFA Annual Meeting PhD Student Poster Session
 
-**Status:** Revise & Resubmit at Review of Corporate Finance Studies (RCFS)
+
 
 
 ---
