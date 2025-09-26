@@ -22,6 +22,16 @@ links:
     name: "Available on SSRN"
     url: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5093703"
 
+  - icon: check-circle
+    icon_pack: fas
+    name: "R&R at JFM"
+    url: ""  # leave blank if not linking anywhere
+
+  - icon: award
+    icon_pack: fas
+    name: "Semi-Finalist, Best Paper Award (FMA 2025)"
+    url: "" 
+
 
 # image:
 #   caption: Photo by Toa Heftiba on Unsplash
