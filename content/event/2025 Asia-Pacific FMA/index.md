@@ -1,5 +1,5 @@
 ---
-title: 2025 Asia/Pacific Conference
+title: 2025 Asia/Pacific Conference Doctoral Student Consortium 
 
 event: 2025 Asia/Pacific FMA Doctoral Student Consortium 
 
