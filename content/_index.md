@@ -171,22 +171,25 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: portfolio
-    id: workinprogress
-    content:
-      title: Work in Progress
-      sort_by: 'order'
-      sort_ascending: true 
-      show_related: true
-      show_date: false 
-      # date_format: 'Jan 2006'
-      filters:
-        folders:
-          - workinprogress
-    design:
-      columns: '1'
-      view: card
-      flip_alt_rows: false
+  
+  
+  
+  #- block: portfolio
+  #  id: workinprogress
+  #  content:
+  #    title: Work in Progress
+  #    sort_by: 'order'
+  #    sort_ascending: true 
+  #    show_related: true
+  #    show_date: false 
+  #    # date_format: 'Jan 2006'
+  #    filters:
+  #      folders:
+  #        - workinprogress
+  #  design:
+  #    columns: '1'
+  #    view: card
+  #    flip_alt_rows: false
 
   
   #- block: collection
