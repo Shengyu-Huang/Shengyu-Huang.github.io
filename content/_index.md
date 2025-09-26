@@ -232,12 +232,12 @@ sections:
        <ul>
          <li>FE 520: Introduction to Python for Financial Applications
            <ul>
-             <li>Semester: Spring 2024 – Present</li>
+             <li>Semester: Spring 2024, Fall 2024, Spring 2025</li>
            </ul>
          </li>
          <li>FE 513: Financial Lab: Database Design
            <ul>
-            <li>Semester: Fall 2024</li>
+            <li>Semester: Fall 2024, Fall 2025</li>
            </ul>
          </li>
        </ul>
