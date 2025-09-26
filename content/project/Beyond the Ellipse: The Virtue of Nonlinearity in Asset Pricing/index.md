@@ -9,8 +9,8 @@ tags:
   - Model Complexity 
   - Risk Management 
 
-date: '2024-04-27'
-order: 2  # Lower number appears first
+date: '2025-09-25'
+order: 3  # Lower number appears first
 # Optional external URL for project (replaces project detail page).
 # external_link: https://example.org
 

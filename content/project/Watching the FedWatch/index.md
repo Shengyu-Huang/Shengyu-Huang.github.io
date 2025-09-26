@@ -11,7 +11,7 @@ author_notes:
 tags:
   - Empirical Asset Pricing
 
-date: '2024-04-27'
+date: '2025-09-25'
 order: 2  # Lower number appears first
 # Optional external URL for project (replaces project detail page).
 # external_link: https://example.org
