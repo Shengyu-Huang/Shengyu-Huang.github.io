@@ -24,7 +24,7 @@ links:
 
   - icon: file-alt
     icon_pack: fas
-    name: "Source File"
+    name: "FedWatch Data"
     url: 'uploads/FedWatch.csv'
 
   - icon: check-circle
