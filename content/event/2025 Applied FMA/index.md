@@ -19,4 +19,5 @@ projects:
 ---
 ## Papers Presented
 
-- [**Measuring Bank Complexity Using XAI**](https://henryhuang1996.github.io/Shengyu-Huang.github.io/project/measuring-bank-complexity-using-xai/): This study introduces a machine learning approach to quantify bank complexity using explainable AI.
+- [**Measuring Bank Complexity Using XAI**](https://Shengyu-Huang.github.io/project/measuring-bank-complexity-using-xai/): This study introduces a machine learning approach to quantify bank complexity using explainable AI.
+
