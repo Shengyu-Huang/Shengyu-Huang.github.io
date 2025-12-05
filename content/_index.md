@@ -192,17 +192,17 @@ sections:
   #    flip_alt_rows: false
 
   
-  #- block: collection
-  #  id: publications
-  #  content:
-  #    title: Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      exclude_featured: true
-  #  design:
-  #    columns: '1'
-  #    view: citation
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '1'
+      view: citation
   
   
   - block: collection
