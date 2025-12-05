@@ -19,7 +19,7 @@ projects:
 
 ## Papers Presented
 
-- [**Watching the FedWatch**](https://Shengyu-Huang.github.io/project/watching-the-fedwatch/): This paper examines the predictive power of the CME FedWatch tool for FOMC decisions.
+- [**Watching the FedWatch**](https://shengyu-huang.github.io/publication/huang-2025-fedwatch/): This paper examines the predictive power of the CME FedWatch tool for FOMC decisions.
 
 ## Papers Discussed 
 
