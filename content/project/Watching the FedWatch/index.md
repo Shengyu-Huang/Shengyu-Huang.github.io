@@ -1,4 +1,3 @@
-{{/* 
 ---
 title: Watching the FedWatch
 authors: 
@@ -47,4 +46,3 @@ The popularity of the CME FedWatch as a tool for forecasting monetary policy has
 
 **[Download Source File](/uploads/FedWatch.csv)**  
 *(Market Expectation toward future FOMC rate decisions using CME FedWatch Methodology)*
-*/}}
