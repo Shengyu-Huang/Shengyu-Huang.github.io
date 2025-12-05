@@ -10,6 +10,12 @@ author_notes:
   - Stevens Institute of Technology
   - Stevens Institute of Technology
 
+
+date: '2025-12-03'
+publishDate: '2025-12-03T00:00:00Z'
+
+
+
 publication_types:
   - "article-journal"
 
